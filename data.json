@@ -1,0 +1,68 @@
+{
+    "profile_picture": "images/profilepic.jpeg",
+    "about_me": "I'm Sterling Williams. I'm a movie reviewer and Georgia Tech student.",
+    "my_linkedin_url": "https://www.linkedin.com/in/sterling-williams-0b15a2283/",
+    "linkedin_image_url": "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg",
+    "my_github_url": "https://github.com/your-github-username",
+    "github_image_url": "https://cdn-icons-png.flaticon.com/256/25/25231.png",
+    "my_email_address": "swilliams@gatech.edu.com",
+    "email_image_url": "https://logowik.com/content/uploads/images/513_email.jpg",
+    "education_data": {
+      "Degree": "Bachelor of Media and Communications in Literature Media and Communications",
+      "Institution": "Georgia Institute of Technology",
+      "Graduation Date": "May 2027",
+      "GPA": "3.4"
+    },
+    "reviewJourney_data": {
+      "Worked at a movie theater": {
+        "description": [
+          "- Swept floors, but free movies for staff meant we watched a lot of them on break",
+          "- Increased customer visits by three folds due to my enthusiasm"
+        ],
+        "image": "images/regalsworkpic.jpg"
+      },
+      "Co-hosted an online movie show": {
+        "description": [
+          "- Provided enjoyment to those in the pandemic looking for fun movies to talk about"
+        ],
+        "image": "images/podcastpic.jpg"
+      },
+      "Film critic": {
+        "description": [
+          "- Started my own channel for guys and girls like me searching for a place to talk movies and TV way too much"
+        ],
+        "image": "images/reviewjourneypic.jpg"
+      }
+    },
+    "filmmaking_data": {
+      "Editing": 70,
+      "Writing": 88,
+      "Speaking": 90
+    },
+    "spoken_data": {
+      "English": "Fluent",
+      "French": "Fluent",
+      "Spanish": "Almost Fluent"
+    },
+    "review_scores": {
+      "Movie": ["Movie A", "Movie B", "Movie C"],
+      "Score": [96, 90, 91]
+    },
+    "review_data": [
+      {"movie": "Movie A - Top Gun Maverick", "year": 2022, "rating": 97},
+      {"movie": "Movie A - Spider-verse", "year": 2023, "rating": 98},
+      {"movie": "Movie A - Dune Part Two", "year": 2024, "rating": 95},
+      {"movie": "Movie B - The Batman", "year": 2022, "rating": 87},
+      {"movie": "Movie B - Creed 3", "year": 2023, "rating": 90},
+      {"movie": "Movie B - The Wild Robot", "year": 2024, "rating": 94},
+      {"movie": "Movie C - Entergalactic", "year": 2022, "rating": 97},
+      {"movie": "Movie C - Oppenheimer", "year": 2023, "rating": 88},
+      {"movie": "Movie C - Transformers One", "year": 2024, "rating": 89}
+    ],
+    "awards_data": {
+      "LMC Film Festival": {
+        "description": ["- Voted best director at the LMC Film Festival awards"],
+        "image": "images/awardspic.jpg"
+      }
+    }
+  }
