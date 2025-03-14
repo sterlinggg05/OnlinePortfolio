@@ -2,7 +2,7 @@ import streamlit as st
 import info
 
 profile_picture = "images/profilepic.jpg"
-st.image(info.profile_picture, width=200)
+#st.image(info.profile_picture, width=200)
 # Homepage Title
 st.title("Sterling Williams and CS1301")
 
