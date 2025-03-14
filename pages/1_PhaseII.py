@@ -6,7 +6,7 @@ import info
 # About Me Section
 def about_me_section():
     st.header("About Me")
-    st.image(info.profile_picture, width=200)
+    #st.image(info.profile_picture, width=200)
     st.write(info.about_me)
     st.write("---")
 about_me_section()
@@ -62,7 +62,7 @@ def review_journey_section():
     st.header("Review Journey")
     for job_title, (job_description, image) in info.reviewJourney_data.items():
         expander = st.expander(f"{job_title}")
-        expander.image(image, width=250)
+        #expander.image(image, width=250)
         for bullet in job_description:
             expander.write(bullet)
     st.write("---")
@@ -88,7 +88,7 @@ def awards_section():
     st.header("Awards")
     for title, (details, image) in info.awards_data.items():
         expander = st.expander(f"{title}")
-        expander.image(image, width=250)
+        #expander.image(image, width=250)
         for bullet in details:
             expander.write(bullet)
     st.write("---")
